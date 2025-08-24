@@ -1,6 +1,6 @@
 
 number1 = 1
-number2 = 5 
+number2 = 2000
 
 x = 0 
 
