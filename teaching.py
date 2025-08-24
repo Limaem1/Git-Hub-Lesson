@@ -1,4 +1,4 @@
-number1 = 1
+number1 = 100
 number2 = 10
 x = 0 
 
