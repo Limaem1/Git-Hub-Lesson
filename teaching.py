@@ -1,6 +1,7 @@
 
-number1 = 17
-number2 = 10
+number1 = 1
+number2 = 5 
+
 x = 0 
 
 def add(number1,number2):
