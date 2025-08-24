@@ -1,4 +1,5 @@
-number1 = 100
+
+number1 = 17
 number2 = 10
 x = 0 
 
